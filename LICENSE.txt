@@ -1,0 +1,11 @@
+Copyright (c) 2025 Giannis Tsimpouris  
+All Rights Reserved.
+
+This repository contains public-facing information and promotional material for the mobile application “Love App 24 — The Greek Way”.
+
+The source code of the application is proprietary and is NOT included in this repository.  
+No part of the source code, logic, assets, or design may be copied, distributed, decompiled, reverse-engineered, or used in any form without explicit written permission from the owner.
+
+This project is a closed-source, commercial application distributed exclusively through the Google Play Store and Apple App Store.
+
+Unauthorized use, reproduction, or redistribution of any part of the project is strictly prohibited.
