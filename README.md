@@ -25,11 +25,11 @@ Transform Valentine’s Day into a serene, beautiful 24-hour ritual that connect
 - iOS
 
 ## 📸 Screenshots
-![Screenshot 1](screenshots/1.png)
-![Screenshot 2](screenshots/2.png)
-![Screenshot 3](screenshots/3.png)
-![Screenshot 4](screenshots/4.png)
-![Screenshot 5](screenshots/5.png)
+![Screenshot 1](screenshots/01.png)
+![Screenshot 2](screenshots/02.png)
+![Screenshot 3](screenshots/03.png)
+![Screenshot 4](screenshots/04.png)
+![Screenshot 5](screenshots/05.png)
 
 ### Tech Stack (High-Level)
 - Flutter
