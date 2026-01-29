@@ -50,5 +50,10 @@ Released (live on stores)
 This is a closed-source commercial application.  
 All rights reserved. Source code is not publicly available.
 
+### Sites Links
+- [athina24.gr](https://www.athina24.gr/ellada/28/01/2026/love-app-24-the-greek-way-afto-einai-to-pio-xechoristo-psifiako-doro-agapis/)
+- [patrinorama.com.gr](https://www.patrinorama.com.gr/love-app-24-the-greek-way-einai-to-pio-xechoristo-psifiako-doro-agapis-diathesimo-se-android-kai-apple/)
+- [patrinorama.com.gr](https://www.patrinorama.com.gr/love-app-24-the-greek-way-einai-to-pio-xechoristo-psifiako-doro-agapis-diathesimo-se-android-kai-apple/)
+
 ### Contact with Dev
 [Giannis Tsimpouris](https://linktr.ee/Giannis.Tsimpouris)
